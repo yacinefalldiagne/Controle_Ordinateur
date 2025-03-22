@@ -1,0 +1,90 @@
+mars 22, 2025 3:29:14 PM ServerGUI lambda$startServer$4
+INFO: Serveur démarré sur le port 5000
+mars 22, 2025 3:29:28 PM ServerGUI lambda$startServer$4
+INFO: Nouveau client connecté: /127.0.0.1
+mars 22, 2025 3:29:38 PM ServerGUI$ClientHandler run
+INFO: Utilisateur authentifié: /127.0.0.1
+mars 22, 2025 3:30:03 PM ServerGUI$ClientHandler run
+INFO: Commande reçue de /127.0.0.1: dir
+mars 22, 2025 3:30:45 PM ServerGUI sendFileToClient
+INFO: Fichier envoyé à /127.0.0.1: ,.pdf
+mars 22, 2025 3:38:04 PM ServerGUI lambda$startServer$4
+INFO: Serveur démarré sur le port 5000
+mars 22, 2025 3:38:07 PM ServerGUI lambda$startServer$4
+INFO: Nouveau client connecté: /127.0.0.1
+mars 22, 2025 3:38:17 PM ServerGUI$ClientHandler run
+INFO: Utilisateur authentifié: /127.0.0.1
+mars 22, 2025 3:38:40 PM ServerGUI sendFileToClient
+INFO: Fichier envoyé à /127.0.0.1: 5.png
+mars 22, 2025 3:38:50 PM ServerGUI sendFileToClient
+INFO: Fichier envoyé à /127.0.0.1: ,.pdf
+mars 22, 2025 3:39:11 PM ServerGUI$ClientHandler run
+INFO: Commande reçue de /127.0.0.1: DIR
+mars 22, 2025 3:39:17 PM ServerGUI$ClientHandler run
+INFO: Commande reçue de /127.0.0.1: dir
+mars 22, 2025 4:04:28 PM ServerGUI lambda$startServer$4
+INFO: Serveur démarré sur le port 5000
+mars 22, 2025 4:04:30 PM ServerGUI lambda$startServer$4
+INFO: Nouveau client connecté: /127.0.0.1
+mars 22, 2025 4:04:36 PM ServerGUI$ClientHandler run
+WARNING: Échec d'authentification pour /127.0.0.1
+mars 22, 2025 4:04:38 PM ServerGUI lambda$startServer$4
+INFO: Nouveau client connecté: /127.0.0.1
+mars 22, 2025 4:04:47 PM ServerGUI$ClientHandler run
+INFO: Utilisateur authentifié: /127.0.0.1
+mars 22, 2025 4:05:01 PM ServerGUI$ClientHandler sendFile
+SEVERE: Erreur envoi fichier à /127.0.0.1: Socket is closed
+mars 22, 2025 4:05:01 PM ServerGUI sendFileToClient
+INFO: Fichier envoyé: ,.pdf
+mars 22, 2025 4:05:16 PM ServerGUI$ClientHandler run
+INFO: Commande reçue de /127.0.0.1: dir
+mars 22, 2025 4:05:28 PM ServerGUI$ClientHandler run
+INFO: Commande reçue de /127.0.0.1: dir
+mars 22, 2025 4:05:34 PM ServerGUI$ClientHandler run
+INFO: Client déconnecté: /127.0.0.1
+mars 22, 2025 4:06:27 PM ServerGUI lambda$startServer$4
+INFO: Serveur démarré sur le port 5000
+mars 22, 2025 4:06:30 PM ServerGUI lambda$startServer$4
+INFO: Nouveau client connecté: /127.0.0.1
+mars 22, 2025 4:06:39 PM ServerGUI$ClientHandler run
+INFO: Utilisateur authentifié: /127.0.0.1
+mars 22, 2025 4:06:48 PM ServerGUI$ClientHandler run
+INFO: Commande reçue de /127.0.0.1: dir
+mars 22, 2025 4:07:12 PM ServerGUI sendFileToClient
+INFO: Fichier envoyé à /127.0.0.1: ,.pdf
+mars 22, 2025 4:15:12 PM ServerGUI$ClientHandler run
+INFO: Client déconnecté: /127.0.0.1
+mars 22, 2025 4:15:34 PM ServerGUI lambda$startServer$4
+INFO: Nouveau client connecté: /127.0.0.1
+mars 22, 2025 4:15:44 PM ServerGUI$ClientHandler run
+INFO: Utilisateur authentifié: /127.0.0.1
+mars 22, 2025 4:15:59 PM ServerGUI$ClientHandler run
+INFO: Commande reçue de /127.0.0.1: dir
+mars 22, 2025 4:17:07 PM ServerGUI sendFileToClient
+INFO: Fichier envoyé à /127.0.0.1: 1-1.pdf
+mars 22, 2025 4:17:14 PM ServerGUI lambda$startServer$4
+SEVERE: Erreur serveur: Socket closed
+mars 22, 2025 4:17:14 PM ServerGUI stopServer
+INFO: Serveur arrêté par l'utilisateur
+mars 22, 2025 4:17:14 PM ServerGUI$ClientHandler run
+INFO: Client déconnecté: /127.0.0.1
+mars 22, 2025 6:07:09 PM ServerGUI lambda$startServer$4
+INFO: Serveur démarré sur le port 5000
+mars 22, 2025 6:07:19 PM ServerGUI lambda$startServer$4
+INFO: Nouveau client connecté: /127.0.0.1
+mars 22, 2025 6:07:29 PM ServerGUI$ClientHandler run
+INFO: Utilisateur authentifié: /127.0.0.1
+mars 22, 2025 6:07:46 PM ServerGUI$ClientHandler run
+INFO: Commande reçue de /127.0.0.1: dir
+mars 22, 2025 6:31:16 PM ServerGUI lambda$startServer$4
+INFO: Serveur démarré sur le port 5000
+mars 22, 2025 6:31:31 PM ServerGUI lambda$startServer$4
+INFO: Nouveau client connecté: /127.0.0.1
+mars 22, 2025 6:31:42 PM ServerGUI$ClientHandler run
+INFO: Utilisateur authentifié: /127.0.0.1
+mars 22, 2025 6:32:01 PM ServerGUI$ClientHandler run
+INFO: Commande reçue de /127.0.0.1: dir
+mars 22, 2025 6:33:19 PM ServerGUI sendFileToClient
+INFO: Fichier envoyé à /127.0.0.1: ,.pdf
+mars 22, 2025 6:34:37 PM ServerGUI$ClientHandler run
+INFO: Client déconnecté: /127.0.0.1
