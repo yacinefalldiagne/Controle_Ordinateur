@@ -15,6 +15,6 @@ Il utilise Java, des Sockets pour la communication réseau, des threads pour gé
 
 ## Live demo
 
- Lien You Tube ici 👉️  [https://client-phi-beige.vercel.app](https://client-phi-beige.vercel.app/)      
+ Lien You Tube ici 👉️        
 
 
